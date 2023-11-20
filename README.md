@@ -4,7 +4,7 @@ Projeto feito durante o curso de **responsividade** da Alura. Este site foi proj
 
 [Link do projeto](https://alura-books-kappa-eight.vercel.app/)
 
-## Tecnologias utilizadas
+### Tecnologias utilizadas
 
 - HTML
 - CSS
